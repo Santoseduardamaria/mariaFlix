@@ -1,0 +1,11 @@
+body{
+   background-color: aqua;
+     color: aquamarine;
+}
+
+header  {
+      text-align: center;
+      font-size: 100px; 
+      color: aqua;
+      border-bottom: solid 5px aqua
+}
