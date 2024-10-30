@@ -9,3 +9,8 @@ header  {
       color: aquamarine;
       border-bottom: solid 5px aquamarine
 }
+
+section {
+
+    display: flex;
+}
